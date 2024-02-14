@@ -1,5 +1,5 @@
 # Find-prime-number-in-interval
-<title>Code to find prime number in a certain interval.</title>
+Code to find prime number in a certain interval.
 <br>
 <h1></h1>Author:-Alok Prasad</h1>
 <br>
